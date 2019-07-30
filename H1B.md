@@ -74,6 +74,8 @@ For the H-1B Dataset our class attribute is ‘CASE_STATUS’. There are 4 categ
 4) Denied
 
 Certified means the LCA of an employer was approved. Certified Withdrawn means the case was withdrawn after it was certified by OFLC. Withdrawn means the case was withdrawn by the employer. Denied means the case was denied OFLC.			 				 					 					 				 				 					 					 				 				 					 					 				 				 					 					 				 				 					 					 				 				 					 					 				 				 					 					 					 					 				 			 		
+**Dataset**
 
+436844 rows and 19 columns after cleaning
 
 
